@@ -1,0 +1,8 @@
+﻿  pch.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  gene.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  openMP_Based_GA.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  正在生成代码...
+  openMP_Based_GA.vcxproj -> C:\Users\neals\source\repos\openMP_Based_GA\Debug\openMP_Based_GA.exe
